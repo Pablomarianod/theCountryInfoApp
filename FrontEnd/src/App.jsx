@@ -1,5 +1,4 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import './App.css'
 import CountryList from './components/CountryList';
 import CountryInfo from './components/CountryInfo';
 
